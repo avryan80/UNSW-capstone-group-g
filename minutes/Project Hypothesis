@@ -1,0 +1,3 @@
+Does including solar generation impacts in our model improve prediciton of electricity demand, versus using temperature only.
+Solar generation impacts include: installed domestic and commercial solar generation capacity
+  And daily solar radiation
